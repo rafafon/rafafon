@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rafafon
 - 👀 I’m interested in crypto, front-end, data analysis
-- 🌱 I’m currently learning Software Engineering
+- 🌱 I have a bachelor's degree in Information Systems from FIAP (Faculdade de Informática e Administração Paulista)
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me rafafon.95@gmail.com
 
